@@ -83,3 +83,8 @@ The aim is to enable **data-driven insights** into GST datasets for anomaly dete
 **Paushali Mondal**  
 📌 Department of Computer Science, VIT Bhopal University  
 🔗 [LinkedIn](https://linkedin.com/in/paushali-mondal-483ba4250) | [GitHub](https://github.com/mondal-paushali03)  
+
+---
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
